@@ -33,17 +33,17 @@
 
 Ответы:
 1.
-> root@ubnt2004:~/virt-homeworks# vboxmanage --version
-    6.1.38_Ubuntur153438
+> "root@ubnt2004:~/virt-homeworks# vboxmanage --version"
+> "6.1.38_Ubuntur153438"
 
 2.
->  root@ubnt2004:~/virt-homeworks# vagrant --version
-     Vagrant 2.2.6
+> "root@ubnt2004:~/virt-homeworks# vagrant --version"
+> "Vagrant 2.2.6"
 
 
 3.
-> root@ubnt2004:~/virt-homeworks# ansible --version
-    ansible 2.9.6
+> "root@ubnt2004:~/virt-homeworks# ansible --version"
+> "ansible 2.9.6"
 
 
 ## Задача 4 (*)
