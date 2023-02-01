@@ -27,6 +27,6 @@
 </p>
 
 <p align="center">
-  <img width="1500" height="170" src="./image/0505-33.JPG">
+  <img width="1800" height="170" src="./image/0505-33.JPG">
 </p>
 
