@@ -20,7 +20,7 @@
 ## Задача 3
 
 <p align="center">
-  <img width="2400" height="300" src="./image/3.JPG">
+  <img width="2400" height="100" src="./image/3.JPG">
 </p>
 
 
