@@ -23,10 +23,6 @@
 ## Задача 3
 
 <p align="center">
-  <img width="900" height="200" src="./image/0505-3.JPG">
-</p>
-
-<p align="center">
   <img width="1800" height="170" src="./image/0505-33.JPG">
 </p>
 
