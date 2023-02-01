@@ -9,18 +9,18 @@
 ## Задача 2
 
 <p align="center">
-  <img width="1200" height="600" src="./image/2.JPG">
+  <img width="1200" height="1200" src="./image/2.JPG">
 </p>
 
 <p align="center">
-  <img width="1200" height="600" src="./image/22.JPG">
+  <img width="1200" height="1200" src="./image/22.JPG">
 </p>
 
 
 ## Задача 3
 
 <p align="center">
-  <img width="1200" height="600" src="./image/3.JPG">
+  <img width="2400" height="300" src="./image/3.JPG">
 </p>
 
 
