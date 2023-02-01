@@ -3,7 +3,7 @@
 ## Задача 1
 
 <p align="center">
-  <img width="1200" height="600" src="/root/virt-homeworks/image/1.JPG">
+  <img width="1200" height="600" src="./image/1.JPG">
 </p>
 
 ## Задача 2
