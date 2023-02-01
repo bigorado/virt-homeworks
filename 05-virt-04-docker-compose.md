@@ -9,7 +9,7 @@
 ## Задача 2
 
 <p align="center">
-  <img width="1200" height="1200" src="./image/2.JPG">
+  <img width="1200" height="800" src="./image/2.JPG">
 </p>
 
 <p align="center">
